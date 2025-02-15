@@ -590,4 +590,3 @@ WHERE d.FirstName = 'Alice' AND d.LastName = 'Williams'
 
 ---
 
-That's a wrap! If you have any questions or need further clarification on any of the topics covered, don't hesitate to reach out. Happy learning!
