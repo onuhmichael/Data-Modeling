@@ -97,13 +97,14 @@ Now that we know what data we need, let's start crafting our conceptual data mod
 
 ### **Creating the ER Diagram**
 
-While I can't display images, imagine creating boxes for each entity and drawing lines to represent relationships. For example:
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/aa998afc-c3b7-43ef-b95d-2b438a341cfd" />
+
 
 - **Customer** — (owns) — **Account**
 - **Account** — (records) — **Transaction**
 - **Customer** — (has) — **Loan** and **Investment**
 
----
+
 
 ## **Logical Data Model**
 
