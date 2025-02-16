@@ -109,6 +109,11 @@ Now that we know what data we need, let's start crafting our conceptual data mod
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/05e2ac5e-6f73-48aa-b72f-be9ba1d8e506" />
 
 
+- **Patient** — (books) — **Appointment** — (with) — **HealthcareProvider**
+- **Appointment** — (includes) — **MedicalService**
+- **Patient** — (has) — **EHR**
+- **HealthcareProvider** — (prescribes) — **Prescription**
+
 ## **Logical Data Model**
 
 Let's add more detail to our model, defining attributes and refining relationships.
