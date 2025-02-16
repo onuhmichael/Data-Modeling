@@ -106,14 +106,8 @@ Now that we know what data we need, let's start crafting our conceptual data mod
 
 ### **Creating the ER Diagram**
 
-While I can't display images, imagine creating boxes for each entity and drawing lines to represent relationships. For example:
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/05e2ac5e-6f73-48aa-b72f-be9ba1d8e506" />
 
-- **Patient** — (books) — **Appointment** — (with) — **HealthcareProvider**
-- **Appointment** — (includes) — **MedicalService**
-- **Patient** — (has) — **EHR**
-- **HealthcareProvider** — (prescribes) — **Prescription**
-
----
 
 ## **Logical Data Model**
 
