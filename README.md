@@ -139,6 +139,6 @@ This project is licensed under the terms of the MIT license. You are free to use
 
 Have questions, feedback, or just want to connect?
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/michael-onuh)
+- **LinkedIn**: [Michael](https://www.linkedin.com/in/michael-onuh)
 ---
 
